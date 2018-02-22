@@ -44,9 +44,8 @@ class Repo:
 if __name__ == '__main__':
     newRepo = Repo('jlara567')
     newRepo.requestRepos()
-    for x in newRepo.get_all_data():
-        print(x)
-
+    
+    [print(x) for x in newRepo.get_all_data()]
 
 
 
