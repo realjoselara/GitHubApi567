@@ -4,4 +4,4 @@ python:
 
 # command to run tests
 script:
- - python GitHubApi567.py
+ - python3 GitHubApi567.py
