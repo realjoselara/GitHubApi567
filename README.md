@@ -1,6 +1,1 @@
-# GitHubApi567
-<<<<<<< HEAD
-      Github interface script
-=======
-Github interface script
->>>>>>> c5b2d77304338226ee6cf2005f08374a703c09d8
+[![build status of master](https://travis-ci.org/jlara567/GitHubApi567.svg?branch=master)](https://travis-ci.org/jlara567/GitHubApi567)
