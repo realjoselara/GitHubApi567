@@ -1,1 +1,1 @@
-[![build status of master](https://travis-ci.org/jlara567/GitHubApi567.svg?branch=master)](https://travis-ci.org/jlara567/GitHubApi567)
+[![build status of master](https://travis-ci.org/latinocodes/GitHubApi567.svg?branch=master)](https://travis-ci.org/latinocodes/GitHubApi567)
